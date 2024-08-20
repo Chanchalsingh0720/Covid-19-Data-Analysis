@@ -8,7 +8,7 @@ The dataset includes the following columns:
 
 - **province_state**: The state, province, or region within a country.
 - **country_region**: The country or region where the data was recorded.
-- **date**: The date of the record in `YYYY-MM-DD` format.
+- **date**: The date of the record in `DD-MM-YYYY` format.
 - **latitude**: The latitude coordinate of the region.
 - **longitude**: The longitude coordinate of the region.
 - **location_geom**: Geometric representation of the location for mapping purposes.
